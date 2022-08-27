@@ -261,9 +261,8 @@ hash = "7986095d6f4e9726a3f56296399a358db898055b6d4a2ebd9de48afe629a019b"
 metafile = true
 
 [[files]]
-file = "mods/winged.pw.toml"
-hash = "05da828a9b7c05db28ad1e6de50f520bee440a79e312152ae4f474d4fc8b78b0"
-metafile = true
+file = "mods/winged-1.19-3.3.0.jar"
+hash = "075798b5c5cde1a4a1cd2ffc8344b457180975232e6ae453b12314d7e2291ae6"
 
 [[files]]
 file = "mods/yosbr.pw.toml"
