@@ -1,12 +1,12 @@
 name = "Fabulously Janked"
 author = "Kneelawk"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "83c438ea3b85cba9bbc1da7b20efa9363d4fe2b90665e7908b810ba4a8c25d75"
+hash = "097f069b5030659885e86da8f3ede3bad756af10769e99a99f5dba948724f30b"
 
 [versions]
 minecraft = "1.19.2"

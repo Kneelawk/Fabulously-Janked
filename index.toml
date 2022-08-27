@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "c967481544c7d3099e83e7c2eadc60409a98f8c5c5709fd129d4b8871266ae67"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a1dcc021f3acc64ccc8ccf4548629f041e1897b9407c41ac5b17511260bb7a62"
 metafile = true
@@ -211,14 +215,13 @@ hash = "46f5b5ed80ef652e33f090f2c2934267d5bfeba1faa0c4ec189744ae49ffd1a4"
 metafile = true
 
 [[files]]
-file = "mods/origins-umbrellas.pw.toml"
-hash = "1301f79ed5cc4f5f80da8742efa48cf93773a8911754d8ee8562f9cf052280a5"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "87777fcc199ae8b499fbee5677f03331fde5297e5077728170410c6d464a7073"
 metafile = true
+
+[[files]]
+file = "mods/originsumbrellas-1.5.3+mc.1.19.2.jar"
+hash = "cef78993cf72670dc7487a045cb954b4e8076460058683f57f99abd5f45fe088"
 
 [[files]]
 file = "mods/puzzle.pw.toml"
