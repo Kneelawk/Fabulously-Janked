@@ -1,0 +1,14 @@
+name = "Ventur Origin"
+filename = "ventur-origin-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGPYzWlj/versions/EhNWRtiS/ventur-origin-1.0.3.jar"
+hash-format = "sha1"
+hash = "a414110e5da9af0ba8daa195717a98db3e3a1b74"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "jGPYzWlj"
+version = "EhNWRtiS"

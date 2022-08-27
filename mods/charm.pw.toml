@@ -1,0 +1,14 @@
+name = "Charm"
+filename = "charm-fabric-1.19.2-4.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/UlK9nEGG/charm-fabric-1.19.2-4.2.2.jar"
+hash-format = "sha1"
+hash = "d2534d9f2478bfcaf7a2c2bd3b0926630b8f4db8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "pOQTcQmj"
+version = "UlK9nEGG"
