@@ -170,11 +170,6 @@ hash = "9eee0673c6b5f8f85b8b3022fb88b255aa26f2c5b4a68591cb8b5ff9e226a275"
 metafile = true
 
 [[files]]
-file = "mods/grounded-origins.pw.toml"
-hash = "a323faef4571d4070408258114eef4639257f599f40e36035ed40bc38a5ebf67"
-metafile = true
-
-[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "3c6a439035c95238caed57079bc776b44bfbcd4891f182eca5ddb66c459e230d"
 metafile = true
@@ -275,11 +270,6 @@ hash = "c564c408fa886b0eb077f4a0e9e326339da02dafbb1f3127e82613787af83bae"
 metafile = true
 
 [[files]]
-file = "mods/moborigins.pw.toml"
-hash = "b35c7aeedbbce828f845fbc89f070e6b46b503aa5db575ba82be915f6a606457"
-metafile = true
-
-[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "369a7c128d41bde0ac15f6419856550d14b6316ec975c701aefa5048449bd615"
 metafile = true
@@ -318,14 +308,6 @@ metafile = true
 file = "mods/origins.pw.toml"
 hash = "87777fcc199ae8b499fbee5677f03331fde5297e5077728170410c6d464a7073"
 metafile = true
-
-[[files]]
-file = "mods/originstweaks-1.12.1+mc.1.19.2.jar"
-hash = "be30125403bc1ebd23d03f99ecd1d2413bcf6df8df1b0515612b59f51c3b3874"
-
-[[files]]
-file = "mods/originsumbrellas-1.5.3+mc.1.19.2.jar"
-hash = "cef78993cf72670dc7487a045cb954b4e8076460058683f57f99abd5f45fe088"
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -393,11 +375,6 @@ hash = "7986095d6f4e9726a3f56296399a358db898055b6d4a2ebd9de48afe629a019b"
 metafile = true
 
 [[files]]
-file = "mods/toomanyorigins.pw.toml"
-hash = "86fba20049b79e53956d28dcdcb8635bf8955571fd9b74d885aae5a30e3ae081"
-metafile = true
-
-[[files]]
 file = "mods/traverse.pw.toml"
 hash = "6558b0b0aae4c5ea543a390b1cb5c5559f07793fecac7d91f209f63eeb1786db"
 metafile = true
@@ -405,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "ef9c9e072e84554a193b504f960e3f69d56b239842c26f0b04e4570a22f3af8c"
-metafile = true
-
-[[files]]
-file = "mods/venturorigin.pw.toml"
-hash = "cb686a22f164c45ade91bc5bef07104943ccfdca7936c83e4cc473fb586a47da"
 metafile = true
 
 [[files]]
