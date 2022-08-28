@@ -65,6 +65,11 @@ hash = "94a1f6d77920d815b3ae8fe10b58c9d2bc4df5fdbe2c53a07e55dcdb4e8bd0be"
 metafile = true
 
 [[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "cb15817d5e48cf5c6476907bbb96438387df7f617b6300446bf660fffac9990e"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "d34f349d77f57ac0d6ae7c61424eff4380eed46b4d2e5177fa09b3071c250d9d"
 metafile = true
@@ -120,11 +125,6 @@ hash = "073bff49ec9e664b669794177329cfbeef3c3d91d5c0660cd01144a640e0338b"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "5d7759bf339bc170505b1ea082165f867701ff19701429e9bd42020119020073"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
@@ -177,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "3c6a439035c95238caed57079bc776b44bfbcd4891f182eca5ddb66c459e230d"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "6132e93aaf43ceb9052ec20fb0b67f656a3b1af3ce90cd6ae517f3ee8088136b"
 metafile = true
 
 [[files]]
@@ -275,6 +280,16 @@ hash = "b35c7aeedbbce828f845fbc89f070e6b46b503aa5db575ba82be915f6a606457"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "369a7c128d41bde0ac15f6419856550d14b6316ec975c701aefa5048449bd615"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "ba59ddb7ad4879e554359e639f1072ca140d6fbdc0a327189a10420ec0ff4519"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c9d9167880bfc8aaf35baa869a5272ef3f99bb165915da5f1ac30b0426bec3d2"
 metafile = true
@@ -333,6 +348,11 @@ hash = "ce8a7980a8449f351786eb362b5859655e40069e7e1ca1c7daa15cb244c9a5e5"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "9c8ea98d3ba6c6770169ea2d3ec17e2808794ed940b972f1c9d8fe7c24336f2b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "98fb4298a84616d8e3b908e29ffc08578d319aadfc510c08b3447832a6fa0ee0"
 metafile = true
@@ -340,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "6417222ddec6cb972ad4230090d8d8439c73bf9cd8c9f81768b6e862fcf70deb"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "57a1250864e8a098bdca5fcf930c50f02fa5c39335e7f9fd6bea0ce2608d4217"
 metafile = true
 
 [[files]]
