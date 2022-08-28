@@ -285,6 +285,11 @@ hash = "3c9c686abc765962f57fe57d87290f1e2196b750adc8bdcaa13d6237eae5b3a5"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "3564b7d6d1d3f807ed9a9a44e53b1eba9b887fa547237e428fa32b438f6439f4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "96200083ece924cbe124113b4aed6b1abd950fbaf00ef4ae7052faa43a41e8b5"
 metafile = true
@@ -375,9 +380,22 @@ hash = "6558b0b0aae4c5ea543a390b1cb5c5559f07793fecac7d91f209f63eeb1786db"
 metafile = true
 
 [[files]]
+file = "mods/trees-do-not-float.pw.toml"
+hash = "a7582c12c974df262abc1b1bd29946d95a8c208c5786f7477063c23d75fc12d9"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "ef9c9e072e84554a193b504f960e3f69d56b239842c26f0b04e4570a22f3af8c"
 metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers-3.4.0-1.18.2.jar"
+hash = "0d92165a89a793ece9fe3dcb0348b6284f5604415be2fddde2e93c60985e1e31"
+
+[[files]]
+file = "mods/vanillaexcavators-2.3.1-1.18.2.jar"
+hash = "27dadd2ed15b609e2188373785f5f51ab390eafd4f8022b5baf4ff253df3aac2"
 
 [[files]]
 file = "mods/windchimes.pw.toml"
