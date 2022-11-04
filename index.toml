@@ -20,6 +20,11 @@ hash = "a1dcc021f3acc64ccc8ccf4548629f041e1897b9407c41ac5b17511260bb7a62"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "5c9341b9cb48424fe1c08f081cbb3aa19a46e7e31ffd551df421b943891642a8"
 metafile = true
