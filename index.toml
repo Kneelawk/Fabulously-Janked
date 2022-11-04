@@ -5,6 +5,14 @@ file = "README.md"
 hash = "c967481544c7d3099e83e7c2eadc60409a98f8c5c5709fd129d4b8871266ae67"
 
 [[files]]
+file = "mods/AdvancedReborn-1.19-1.1.1.jar"
+hash = "d97b4c0a8aa25bd6dd1c80ac893f30d07bcdf3fbbed72167dab10db87accb8ae"
+
+[[files]]
+file = "mods/TechReborn-5.3.4.jar"
+hash = "20e0abb4e42d4b01d1da459f8f8c64373deb14a946daf151bb2a90c9e5d082ee"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
@@ -250,6 +258,10 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch-1.1.0-1.19-fabric.jar"
+hash = "485083d39ed1924cdf046628c860f09bd3230e3793137e6f0cb66b64fa773c33"
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "7076f0236db7652d6653a24c5aa60a3e265a77a9c137d8ecac837143556fcb46"
 metafile = true
@@ -338,6 +350,10 @@ metafile = true
 file = "mods/qsl.pw.toml"
 hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
 metafile = true
+
+[[files]]
+file = "mods/quarry-reborn-1.19-1.0.2.jar"
+hash = "98933d996c8250a62501f0dc0bb69e4205b4dccd9db400535e3297c0ef15c834"
 
 [[files]]
 file = "mods/reacharound.pw.toml"
