@@ -400,8 +400,8 @@ hash = "ef9c9e072e84554a193b504f960e3f69d56b239842c26f0b04e4570a22f3af8c"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-hammers-3.4.0-1.18.2.jar"
-hash = "0d92165a89a793ece9fe3dcb0348b6284f5604415be2fddde2e93c60985e1e31"
+file = "mods/vanilla-hammers-3.5.0-1.19.2.jar"
+hash = "824fc633b76b880a8ba44c7be62ca5be086f338f7064856897edf8ae37b9ca2f"
 
 [[files]]
 file = "mods/vanillaexcavators-2.3.1-1.18.2.jar"
