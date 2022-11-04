@@ -1,14 +1,13 @@
 name = "Trees Do Not Float"
-filename = "tdnf-fabric-mc119-3.0.181.jar"
+filename = "tdnf-fabric-mc119-3.0.183.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PxIdJdxN/versions/fabric-mc119-3.0.181/tdnf-fabric-mc119-3.0.181.jar"
+url = "https://cdn.modrinth.com/data/PxIdJdxN/versions/LaDkNcUy/tdnf-fabric-mc119-3.0.183.jar"
 hash-format = "sha1"
-hash = "1e04b02d802f11ab21d72acc8205605b088b97cd"
-mode = ""
+hash = "65823eb32c2a2da81abda3666dde6ab35441c00a"
 
 [update]
 [update.modrinth]
 mod-id = "PxIdJdxN"
-version = "RzfE2bDd"
+version = "LaDkNcUy"
