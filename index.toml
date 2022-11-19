@@ -128,6 +128,11 @@ hash = "e937f69ea0e915afcec0ccf93d4cf7f1ce1b295bfc6396c3c9e05d714494545d"
 metafile = true
 
 [[files]]
+file = "mods/conjuring.pw.toml"
+hash = "a51dc8e969664b1e2279e7bf830420514ed1b6c45d57063f8e72b937ebffc513"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "9203ef84065263ebff839e183fe609f500c0a2e6539a5453dac3683041e28491"
 metafile = true
@@ -289,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
 metafile = true
 
 [[files]]
@@ -462,6 +472,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
