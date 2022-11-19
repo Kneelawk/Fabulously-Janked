@@ -233,6 +233,11 @@ hash = "661b6b5650ed4849eb9fcdfd320c7195e8c6f01902b00b3b8f7eb8f9ab30eb14"
 metafile = true
 
 [[files]]
+file = "mods/kofi-table.pw.toml"
+hash = "8726c3ef33756d400f3f5fc00da96608ced3a11742682ef29bd4287225fe70d8"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "ccbdf7d1628da54cc6a24972312820382807c780808497b8029777b2cce0d115"
 metafile = true
@@ -357,6 +362,16 @@ hash = "507bc64b94ff03432f5e061318fe9d6765d6fd66b3075e91d209e023f08f60f7"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/peculiar-pieces.pw.toml"
+hash = "e035370ed454972d212e3c7515d4d8487e9f12a13f2f70c6355b72b9cf9d8635"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
@@ -436,6 +451,11 @@ hash = "b5f83e15374a15a0e8aa3c209aa42884b450e5ebea39c71fe7a2f3513ffcddc0"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "ef9c9e072e84554a193b504f960e3f69d56b239842c26f0b04e4570a22f3af8c"
 metafile = true
@@ -447,6 +467,11 @@ hash = "824fc633b76b880a8ba44c7be62ca5be086f338f7064856897edf8ae37b9ca2f"
 [[files]]
 file = "mods/vanillaexcavators-2.3.1-1.18.2.jar"
 hash = "27dadd2ed15b609e2188373785f5f51ab390eafd4f8022b5baf4ff253df3aac2"
+
+[[files]]
+file = "mods/visible-barriers.pw.toml"
+hash = "8d77350dc3410226e42685008053d939f175b84769a880ec4db91cf6485fbda7"
+metafile = true
 
 [[files]]
 file = "mods/windchimes.pw.toml"
