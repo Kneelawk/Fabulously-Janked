@@ -143,6 +143,10 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting-1.0.0+1.19.1.jar"
+hash = "3730fab9ecee2d26f68a40c778c943f5bfed0b907d9a9a9accd4e835870f0f1e"
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
