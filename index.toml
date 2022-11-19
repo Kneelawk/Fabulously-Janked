@@ -5,6 +5,10 @@ file = "README.md"
 hash = "c967481544c7d3099e83e7c2eadc60409a98f8c5c5709fd129d4b8871266ae67"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
+
+[[files]]
 file = "mods/AdvancedReborn-1.19-1.1.1.jar"
 hash = "d97b4c0a8aa25bd6dd1c80ac893f30d07bcdf3fbbed72167dab10db87accb8ae"
 
