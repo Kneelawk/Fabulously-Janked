@@ -163,6 +163,31 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "35b52c28e246f156ab972faee076d5f620801b8d4142fdc67923778f16e32635"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
@@ -408,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "39638667d62782c81ddaa11e7607ceeec5bb7566b3486c9246b9e72c725a7b4f"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
 metafile = true
 
 [[files]]
