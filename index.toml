@@ -552,6 +552,11 @@ hash = "f7b06cb8ec7928fff97239728f125646d9100499fc99281a1fd73486e5fa1841"
 metafile = true
 
 [[files]]
+file = "mods/yttr.pw.toml"
+hash = "bd55e848e4cf7a98aad647b72c1fb174bce58be740b6a5d782622e23919098bb"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
