@@ -52,6 +52,11 @@ hash = "e9e2cc252c97ae6c98992c93b57b8aebfc1d42541169abe1ea6a3bed65a35e28"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "63dc69c2b6fe30ccd872f25ad724105d24032368886ce719c5ab75bbd6692952"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
@@ -124,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
