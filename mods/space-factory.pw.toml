@@ -1,0 +1,13 @@
+name = "Space Factory"
+filename = "space-factory-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GxCN84Hf/versions/SJtnNsqE/space-factory-1.0.0.jar"
+hash-format = "sha1"
+hash = "451c14dc435551813e4abb3a876a09437cd9384b"
+
+[update]
+[update.modrinth]
+mod-id = "GxCN84Hf"
+version = "SJtnNsqE"
