@@ -246,6 +246,11 @@ hash = "8667ba6e606a27efc90b4c3b3407443e2de7d042db6e30d6a145a1ac3e7443c7"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "851f8319eb002b1a833bb5b469af592b057c8f76ee7e8285074e6e14874aaa46"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
