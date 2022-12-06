@@ -1,0 +1,13 @@
+name = "Advanced Reborn"
+filename = "AdvancedReborn-1.19-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ir8okcEA/versions/7lynQvyk/AdvancedReborn-1.19-1.1.2.jar"
+hash-format = "sha1"
+hash = "e8199e4abd4e433af22827c33d041d03c43f2dd1"
+
+[update]
+[update.modrinth]
+mod-id = "ir8okcEA"
+version = "7lynQvyk"

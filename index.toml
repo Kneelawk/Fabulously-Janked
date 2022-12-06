@@ -9,10 +9,6 @@ file = "config/bclib/client.json"
 hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
 
 [[files]]
-file = "mods/AdvancedReborn-1.19-1.1.1.jar"
-hash = "d97b4c0a8aa25bd6dd1c80ac893f30d07bcdf3fbbed72167dab10db87accb8ae"
-
-[[files]]
 file = "mods/TechReborn-5.3.4.jar"
 hash = "20e0abb4e42d4b01d1da459f8f8c64373deb14a946daf151bb2a90c9e5d082ee"
 
@@ -27,6 +23,11 @@ hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
 metafile = true
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "d668f6652f0961525526217f51234bdd1ea647c0c31fd8c380acb7dc86e87715"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a1dcc021f3acc64ccc8ccf4548629f041e1897b9407c41ac5b17511260bb7a62"
 metafile = true
@@ -38,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
+hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
 metafile = true
 
 [[files]]
@@ -93,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
-hash = "62fbcf974025cc005dcfe985cbbf3e51446d5448f361a3591edc42baed841ee7"
+hash = "257fbabe126fd6280f855c30b3a827cb0ab343cceb6374b374951c3384ce6ddc"
 metafile = true
 
 [[files]]
@@ -163,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e688ae8ac3d9031a206850b33875db66e451d87085c28053dfc2cafdd0d9052d"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
@@ -197,17 +198,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "491154e7685a65eee47541ed5ea37b9c66620180818f3626471acabd7b702c06"
+hash = "45bc6548fdb9ca4fe85e0b69cafddd89ef0ada5f9954154fea99988caf0a8749"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
 metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+hash = "c607c7f81a931c158807ce6625af6b3d6c2c2d8f13f0fd5d95aa8494e4b4d4d0"
 metafile = true
 
 [[files]]
@@ -232,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "7d38f85490d827ed507751145ff688ef45641ae2e7ac397998d6e7a772896b7c"
+hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
 metafile = true
 
 [[files]]
@@ -252,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -331,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "90e2b2d85c2c2527394a2a16379a3ca01247c6c8e88cea0dbf47d48f0bca277e"
+hash = "fcec3755049b9f8eaf6b9d2e063745ae2f4806981ad5def32354ee3dd54a4697"
 metafile = true
 
 [[files]]
@@ -370,8 +371,9 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/mcpitanlibarch-1.1.0-1.19-fabric.jar"
-hash = "485083d39ed1924cdf046628c860f09bd3230e3793137e6f0cb66b64fa773c33"
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "5d78c3c083f9f3f5668b3d02501417fe95d7c47f9f1e7712bf6741922bec7f1e"
+metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -440,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "4aabf462c88be1b5cdd73be5304a8c4b58b5eb96cd5716caccbdfaf196cda91d"
+hash = "1877b51604f697c5199f1de7b88031b59c1ea14345d1ec132ffc074c7224c3a6"
 metafile = true
 
 [[files]]
@@ -470,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
+hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
 metafile = true
 
 [[files]]
@@ -484,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "98fb4298a84616d8e3b908e29ffc08578d319aadfc510c08b3447832a6fa0ee0"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -499,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
