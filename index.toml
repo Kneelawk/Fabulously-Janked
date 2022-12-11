@@ -108,6 +108,11 @@ hash = "94a1f6d77920d815b3ae8fe10b58c9d2bc4df5fdbe2c53a07e55dcdb4e8bd0be"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
+metafile = true
+
+[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "a3326c6be394dd05dc7758f6187a4e2ddd416fd47b387ea40eef180c65b5ea7e"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2516d3f962c3ba80990fd6db90adacbd764b6099dbfc0af4e233c6e685bf5448"
+metafile = true
+
+[[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "efb070639ab54056b420e3328dc8afeb2d7bb3db928a03b30fccf8269a27f5c9"
 metafile = true
 
 [[files]]
