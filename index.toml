@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "c607c7f81a931c158807ce6625af6b3d6c2c2d8f13f0fd5d95aa8494e4b4d4d0"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
