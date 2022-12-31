@@ -133,11 +133,6 @@ hash = "02ce09e64c6ed4f5484b1496201ad411e78561812c3008e6c1bdd6dfab63e616"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -318,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "4e4b125f735d8a1890413685745723223018936ae5268aa75e424fa79904c1ca"
 metafile = true
 
 [[files]]
