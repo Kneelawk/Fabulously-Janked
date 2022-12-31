@@ -173,6 +173,10 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/dankstorage-1.19.2-4.3.jar"
+hash = "5a32568816c39c377693feccf13fea0228d0de20f7f1408345d0854e012abb8b"
+
+[[files]]
 file = "mods/dark-enchanting-1.0.0+1.19.1.jar"
 hash = "3730fab9ecee2d26f68a40c778c943f5bfed0b907d9a9a9accd4e835870f0f1e"
 
@@ -299,6 +303,10 @@ metafile = true
 [[files]]
 file = "mods/indrev-1.15.1-BETA.jar"
 hash = "3828e22a0184056b3bcf2a410aa025fec8ba164587c5c61b519aeeb42af096e6"
+
+[[files]]
+file = "mods/inmis-2.7.1-1.19.jar"
+hash = "061694912e6efffdf629b6a305f1051a763d199b07ed2d8d753fc5637fe3812d"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -543,6 +551,10 @@ metafile = true
 file = "mods/tooltipfix.pw.toml"
 hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
 metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-1.19.2-8.2.9.jar"
+hash = "0245171d186144b4a0fa8afa878a7354586ab9161eedab657f307bacf84971aa"
 
 [[files]]
 file = "mods/traverse.pw.toml"
